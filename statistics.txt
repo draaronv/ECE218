@@ -1,0 +1,103 @@
+Month 1
+grocery   775.05
+medical   994.09
+meals   2010.25
+creditcard   1097.63
+misc   902.03
+transport   1165.83
+
+Month 2
+grocery   948.41
+medical   1144.55
+meals   1349.57
+creditcard   883.75
+misc   870.89
+transport   699.22
+
+Month 3
+grocery   1071.88
+medical   937.34
+meals   2097.53
+creditcard   860.32
+misc   935.27
+transport   842.14
+
+Month 4
+grocery   1210.72
+medical   892.85
+meals   1837.86
+creditcard   1191.22
+misc   858.68
+transport   700.94
+
+Month 5
+grocery   629.84
+medical   1133.39
+meals   2350.92
+creditcard   873.3
+misc   1102.11
+transport   1072.04
+
+Month 6
+grocery   1075.22
+medical   1041.12
+meals   1651.4
+creditcard   953.82
+misc   1168.28
+transport   1415.94
+
+Month 7
+grocery   963.82
+medical   888.1
+meals   1828.71
+creditcard   999.38
+misc   1193.39
+transport   1066
+
+Month 8
+grocery   797.28
+medical   883.07
+meals   1805.77
+creditcard   893.64
+misc   861.83
+transport   743.86
+
+Month 9
+grocery   938.55
+medical   1327.91
+meals   2039.12
+creditcard   535.43
+misc   1058.9
+transport   764.39
+
+Month 10
+grocery   934.08
+medical   1014.55
+meals   1444.24
+creditcard   768.03
+misc   1162.23
+transport   1125.52
+
+Month 11
+grocery   1318.52
+medical   976.97
+meals   1929.55
+creditcard   1132.62
+misc   723.21
+transport   1123.65
+
+Month 12
+grocery   743.29
+medical   1011.58
+meals   2127.07
+creditcard   951.62
+misc   1110.68
+transport   1061.97
+
+Entire Year 
+grocery   11406.7
+medical   12245.5
+meals   22472
+creditcard   11140.8
+misc   11947.5
+transport   11781.5
